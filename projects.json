@@ -1,0 +1,16 @@
+{
+ "projects":[
+     {
+         "name":"shortcut",
+         "date":1646735106,
+         "description":"Serverless URL Redirection",
+         "url":"https://raw.githubusercontent.com/kgbzen/archive/main/projects/shortcut.md"
+     },
+     {
+        "name":"nephila",
+        "date":1644479819,
+        "description":"Static Website Generator in Python with Markdown",
+        "url":"https://raw.githubusercontent.com/kgbzen/archive/main/projects/nephila.md"
+    }
+ ]   
+}
