@@ -11,7 +11,7 @@ Here is a comparison:
 | ------------------ | --------------- |
 | ![Without Easy-Click](https://raw.githubusercontent.com/kgbzen/easy-click/master/images/no-easy-click.png) | ![With Easy-Click](https://raw.githubusercontent.com/kgbzen/easy-click/master/images/easy-click.png) |
 
-> Notice how it looks more curly and natural with Easy-Click. And no, I didn't make the first one bad intentionally.
+_Notice how it looks more curly and natural with Easy-Click. And no, I didn't make the first one bad intentionally._
 
 To use it, just start `easy-click` by running the command easy-click. This will shrink the terminal window and put it in the bottom right corner of your screen. If it says `Mode:On`, then the event listener should be running. The window will move itself out of the way if you need to click something underneath the terminal window.
 
