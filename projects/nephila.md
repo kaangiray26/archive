@@ -15,7 +15,7 @@ If you want to see any examples, just look around this website !
 
 As always, you can find the source code down below.
 
-* [Source Code](https://github.com/kgbzen/shortcut)
+* [Source Code](https://github.com/kgbzen/nephila)
 
 ---
 Feel free to [email me](mailto:kaangiray26@protonmail.com) your comments!

@@ -1,4 +1,4 @@
-# shortcut
+# Shortcut
 > _Serverless URL Redirection_
 
 Ah the good old spam, everyone hates that for sure. Personally, the amount of spam e-mails I get for my personal e-mail address is crazy high. Almost all websites I visit daily have implemented some ways to deal with spamming, and the common way to deal with it is to add domains to blacklists, so whenever someone shares an URL directly derived from that domain, it gets filtered and hopefully removed from the website. Reddit also does some heavy spam filtering and sometimes their filters can be a bit strict. For instance, if you try to send a link to a subreddit from the `duckdns.org` domain, it will be detected as spam and will be removed most of the time.
