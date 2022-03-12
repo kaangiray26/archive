@@ -9,7 +9,7 @@ Here is a comparison:
 
 | Without Easy-Click | With Easy-Click |
 | ------------------ | --------------- |
-| <img class="img-fluid" alt="Without Easy-Click" src="https://raw.githubusercontent.com/f34rl00/easy-click/master/images/no-easy-click.png"> | <img class="img-fluid" alt="With Easy-Click" src="https://raw.githubusercontent.com/f34rl00/easy-click/master/images/easy-click.png"> |
+| ![Without Easy-Click](https://raw.githubusercontent.com/kgbzen/easy-click/master/images/no-easy-click.png) | ![With Easy-Click](https://raw.githubusercontent.com/kgbzen/easy-click/master/images/easy-click.png) |
 
 > _Notice how it looks more curly and natural with Easy-Click. And no, I didn't make the first one bad intentionally._
 
@@ -19,7 +19,7 @@ Here's the default layout:
 
 | Layout |
 | ------ |
-| <img class="img-fluid" src="https://raw.githubusercontent.com/f34rl00/easy-click/master/images/layout.png"> |
+| ![Layout](https://raw.githubusercontent.com/kgbzen/easy-click/master/images/layout.png) |
 
 You can check the latest release yourself and as always, you can find the source code down below.
 
