@@ -7,11 +7,14 @@ To fix this problem (temporarily), I've created a small python script to simulat
 
 Here is a comparison:
 
-|                                                    Without Easy-Click                                                     |                                                   With Easy-Click                                                   |
-| :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
-| <img class="img-fluid" alt="Without Easy-Click" src="https://raw.githubusercontent.com/f34rl00/easy-click/master/images/no-easy-click.png"> | <img class="img-fluid" alt="With Easy-Click" src="https://raw.githubusercontent.com/f34rl00/easy-click/master/images/easy-click.png"> |
+### Without Easy-Click
 
-> Notice how it looks more curly and natural with Easy-Click. And no, I didn't make the first one bad intentionally.
+<img class="img-fluid" alt="Without Easy-Click" src="https://raw.githubusercontent.com/f34rl00/easy-click/master/images/no-easy-click.png">
+
+### With Easy-Click
+<img class="img-fluid" alt="With Easy-Click" src="https://raw.githubusercontent.com/f34rl00/easy-click/master/images/easy-click.png">
+
+> _Notice how it looks more curly and natural with Easy-Click. And no, I didn't make the first one bad intentionally._
 
 To use it, just start `easy-click` by running the command easy-click. This will shrink the terminal window and put it in the bottom right corner of your screen. If it says `Mode:On`, then the event listener should be running. The window will move itself out of the way if you need to click something underneath the terminal window.
 
