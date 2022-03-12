@@ -12,6 +12,7 @@ Here is a comparison:
 <img class="img-fluid" alt="Without Easy-Click" src="https://raw.githubusercontent.com/f34rl00/easy-click/master/images/no-easy-click.png">
 
 ### With Easy-Click
+
 <img class="img-fluid" alt="With Easy-Click" src="https://raw.githubusercontent.com/f34rl00/easy-click/master/images/easy-click.png">
 
 > _Notice how it looks more curly and natural with Easy-Click. And no, I didn't make the first one bad intentionally._
