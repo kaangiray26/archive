@@ -7,13 +7,9 @@ To fix this problem (temporarily), I've created a small python script to simulat
 
 Here is a comparison:
 
-### Without Easy-Click
-
-<img class="img-fluid" alt="Without Easy-Click" src="https://raw.githubusercontent.com/f34rl00/easy-click/master/images/no-easy-click.png">
-
-### With Easy-Click
-
-<img class="img-fluid" alt="With Easy-Click" src="https://raw.githubusercontent.com/f34rl00/easy-click/master/images/easy-click.png">
+| Without Easy-Click | With Easy-Click |
+| ------------------ | --------------- |
+| <img class="img-fluid" alt="Without Easy-Click" src="https://raw.githubusercontent.com/f34rl00/easy-click/master/images/no-easy-click.png"> | <img class="img-fluid" alt="With Easy-Click" src="https://raw.githubusercontent.com/f34rl00/easy-click/master/images/easy-click.png"> |
 
 > _Notice how it looks more curly and natural with Easy-Click. And no, I didn't make the first one bad intentionally._
 
@@ -21,7 +17,9 @@ To use it, just start `easy-click` by running the command easy-click. This will 
 
 Here's the default layout:
 
-<img class="img-fluid" src="https://raw.githubusercontent.com/f34rl00/easy-click/master/images/layout.png">
+| Layout |
+| ------ |
+| <img class="img-fluid" src="https://raw.githubusercontent.com/f34rl00/easy-click/master/images/layout.png"> |
 
 You can check the latest release yourself and as always, you can find the source code down below.
 
