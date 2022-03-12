@@ -1,5 +1,11 @@
 {
     "projects": [{
+            "name": "kgbzen",
+            "date": 1647078432,
+            "description": "My personal website",
+            "url": "https://raw.githubusercontent.com/kgbzen/archive/main/projects/kgbzen.md"
+        },
+        {
             "name": "xchain",
             "date": 1647023558,
             "description": "Encrypt Files with Shared Keys",
