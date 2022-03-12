@@ -7,13 +7,6 @@ To fix this problem (temporarily), I've created a small python script to simulat
 
 Here is a comparison:
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| **col 3 is**  | right-aligned | $1600 |
-| col 2 is      | *centered*    |   $12 |
-| zebra stripes | ~~are neat~~  |    $1 |
-
-
 | Without Easy-Click | With Easy-Click |
 | ------------------ | --------------- |
 | ![Without Easy-Click](https://raw.githubusercontent.com/kgbzen/easy-click/master/images/no-easy-click.png) | ![With Easy-Click](https://raw.githubusercontent.com/kgbzen/easy-click/master/images/easy-click.png) |
