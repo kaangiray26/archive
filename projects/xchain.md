@@ -12,9 +12,19 @@ The encryption also stores the basename of the file `e.g. main.py` and adds to t
 
 XChain has a graphical user interface and uses GTK3. Here are some screenshots:
 
-<img class="img-fluid" src="https://raw.githubusercontent.com/kgbzen/archive/main/images/xchain_1.png">
-<img class="img-fluid" src="https://raw.githubusercontent.com/kgbzen/archive/main/images/xchain_2.png">
-<img class="img-fluid" src="https://raw.githubusercontent.com/kgbzen/archive/main/images/xchain_3.png">
+| Start screen |
+| ------------ |
+| ![Xchain_1](https://raw.githubusercontent.com/kgbzen/archive/main/images/xchain_1.png) |
+
+
+| Encrypting |
+| ---------- |
+| ![Xchain_1](https://raw.githubusercontent.com/kgbzen/archive/main/images/xchain_2.png) |
+
+
+| Decrypting |
+| ---------- |
+| ![Xchain_1](https://raw.githubusercontent.com/kgbzen/archive/main/images/xchain_3.png) |
 
 You can check the latest release yourself and as always, you can find the source code down below.
 
