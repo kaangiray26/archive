@@ -7,7 +7,9 @@ So, I started implementing my own static website generator. The idea was to crea
 
 There's more to it I promise, I've created a `config.ini` file, which takes basic information like site title, site description, social media links and add them to according places. Besides, it can create some cool javascript sliding ascii art for your headings.
 
-<img class="img-fluid" src="https://raw.githubusercontent.com/kgbzen/archive/main/images/ascii.gif">
+| Sliding gif |
+| ----------- |
+| ![Autumatically generated sliding gif](https://raw.githubusercontent.com/kgbzen/archive/main/images/ascii.gif) |
 
 I write my projects and blog posts with markdown and then just use `jinja` and `markdown` modules to apply the text to a project/blog template and create the html file for it. Since I'm open-sourcing the code, others can replace the base html and css for the website overall and create different `themes` that are easy to use by just replacing the `templates` folder.
 
