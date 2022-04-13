@@ -1,5 +1,11 @@
 {
     "projects": [{
+            "name": "kgbapi",
+            "date": 1647126000,
+            "description": "A little API",
+            "url": "https://raw.githubusercontent.com/kgbzen/archive/main/projects/kgbapi.md"
+        },
+        {
             "name": "easy-click",
             "date": 1647084506,
             "description": "Use Your Keyboard To Simulate Mouse Clicks",
