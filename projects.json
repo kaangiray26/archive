@@ -1,5 +1,11 @@
 {
     "projects": [{
+            "name": "cinevision",
+            "date": 1647774000,
+            "description": "Match Movies You Want To Watch With Friends",
+            "url": "https://raw.githubusercontent.com/kgbzen/archive/main/projects/cinevision.md"
+        },
+        {
             "name": "kgbapi",
             "date": 1647126000,
             "description": "A little API",
